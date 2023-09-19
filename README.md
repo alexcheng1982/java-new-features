@@ -1,5 +1,7 @@
 # Java New Features by Release
 
+Java New Features after Java 9.
+
 # Java 21
 
 [Java 21](https://openjdk.java.net/projects/jdk/21/) has 15 JEPs, see the table below.
